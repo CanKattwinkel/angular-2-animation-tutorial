@@ -1,10 +1,10 @@
-import { Angular2AniamteTutorialPage } from './app.po';
+import { Angular2animateTutorialPage } from './app.po';
 
-describe('angular-2-aniamte-tutorial App', function() {
-  let page: Angular2AniamteTutorialPage;
+describe('angular-2-animate-tutorial App', function() {
+  let page: Angular2animateTutorialPage;
 
   beforeEach(() => {
-    page = new Angular2AniamteTutorialPage();
+    page = new Angular2animateTutorialPage();
   });
 
   it('should display message saying app works', () => {
